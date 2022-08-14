@@ -47,10 +47,7 @@ void parsing() {
       case 1:
       dimmer = ints[1];
         break;
-      case 2:
-       
-        break;
-      case 3:
+      default: 
         break;
     }
   }
