@@ -57,7 +57,8 @@ void setupGUI() {
   cp5 = new ControlP5(this);
   cp5.setFont(createFont("Calibri", 16));  
 
-  // выпадающий список
+ 
+ 
   cp5.addScrollableList("com")
     .setPosition(10, 10)
     .setSize(80, 100)
